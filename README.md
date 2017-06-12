@@ -4,7 +4,7 @@ This repository contains some playbooks that i've used to learn Ansible using Va
 
 ### Requirements:
 
-* First, make sure you have Vagrant3 and Ansible4 installed. You can find installation documentation on their respective websites, they're very easy to get installed.
+* First, make sure you have Vagrant and Ansible installed. You can find installation documentation on their respective websites, they're very easy to get installed.
 
 
 ### How to run
